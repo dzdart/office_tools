@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>Sourse/mail.gif</file>
+    <file>Sourse/MainBG.png</file>
+    <file>Sourse/消息.png</file>
+    <file>Sourse/邮件.png</file>
+    <file>Sourse/tools.png</file>
+  </qresource>
+</RCC>
