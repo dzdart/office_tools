@@ -67,3 +67,4 @@ if __name__ == '__main__':
     # UI.setAttribute(QtCore.Qt.WA_TranslucentBackground)
     UI.show()
     sys.exit(app.exec_())
+    #加了一个小东西
